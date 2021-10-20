@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0xSODev
+- 👀 I’m interested in .lua, .py .js .c .c# .css
+- 🌱 I’m currently learning Python 4
+- 📫 How to reach me discord.gg/SODEV 
